@@ -13,21 +13,25 @@
 
 
 # Tabulation
-| Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
-|------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+
+
+<img width="790" height="127" alt="Screenshot 2025-11-28 213205" src="https://github.com/user-attachments/assets/3fcc91eb-80f7-438f-89a2-884a1de721cc" />
 
 # Graph
 
 
+![WhatsApp Image 2025-11-28 at 9 28 40 PM](https://github.com/user-attachments/assets/cf2851e5-aa37-43bc-a9d3-bd6a03174b0b)
+
 
 # Sample images 
 
+
+<img width="977" height="386" alt="image" src="https://github.com/user-attachments/assets/882676ec-85ea-40fe-b373-62ccde69ab52" />
 
 
 # Result
 
 Thus, the **RC Phase Shift Oscillator** was designed for the given frequency.
 
-- **(i) Theoretical Frequency:**  
-- **(ii) Practical Frequency:**  
+- **(i) Theoretical Frequency:** - 3.12khz 
+- **(ii) Practical Frequency:**  - 5.8khz
