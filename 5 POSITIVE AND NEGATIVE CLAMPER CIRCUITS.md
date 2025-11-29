@@ -14,11 +14,15 @@
 
 # Tabulation
 
+![WhatsApp Image 2025-11-29 at 09 00 20_f39b109d](https://github.com/user-attachments/assets/06646906-5a92-4803-9c70-de092b39bc5a)
+
 
 # Graph
 
+![WhatsApp Image 2025-11-29 at 09 00 30_cdf264d6](https://github.com/user-attachments/assets/ef031071-f6e2-412b-8021-967706eee7ce)
+![WhatsApp Image 2025-11-29 at 09 00 43_d2f2909f](https://github.com/user-attachments/assets/9d39c481-7b90-4e7c-bbae-a949b01ba849)
 
-# Sample images 
 
 
 # Result
+Hence,the operation of non-linear shaping circuit has been studied successfully
