@@ -17,4 +17,4 @@
 # Result
 
 
-Thus,Tuned oscillator is simulated and it's output is obtained using LTspice.
+Thus,Tuned oscillator is simulated and it's output is obtained using LTspice
